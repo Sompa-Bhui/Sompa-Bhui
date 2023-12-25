@@ -2,7 +2,7 @@
 
 I’m **Sompa Bhui**, A **CSE** student from India. I am a **Web Developer** and **Cloud Computing** enthusiast. 
 
-***About Me:***
+***About Me:-***
 
 - I’m interested in **Cloud Computing**, **AWS** and **Web Dev**
 -  I’m looking forward to collaborate with my colleague on the Project
