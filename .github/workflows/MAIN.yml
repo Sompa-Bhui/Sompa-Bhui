@@ -54,4 +54,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
+          ![snake gif](https://github.com/Sompa-Bhui/Sompa-Bhui/blob/output/github-contribution-grid-snake.gif)
+
+
     
