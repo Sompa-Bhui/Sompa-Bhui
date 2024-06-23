@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sompa-bhui&show_icons=true&locale=en" alt="sompa-bhui" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sompa-bhui&" alt="sompa-bhui" /></p>
+
+
+![](https://leetcard.jacoblin.cool/Sompa_Bhui?ext=heatmap)
