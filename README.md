@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sompa Bhui</h1>
 <h3 align="center">A passionate Full Stack developer & Cloud enthusiast from India</h3>
 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer!;I'm+a+Computer+Science+engineer!" /></a>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sompa-bhui&label=Profile%20views&color=0e75b6&style=flat" alt="sompa-bhui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sompa-bhui" alt="sompa-bhui" /></a> </p>
