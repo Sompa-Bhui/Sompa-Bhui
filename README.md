@@ -31,4 +31,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sompa-bhui&" alt="sompa-bhui" /></p>
 
 
+<a href="https://github.com/Sompa-Bhui"></a>
+    [![Sompa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sompa-Bhui&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Sompa-Bhui/github-readme-activity-graph)
+
+
+
 ![](https://leetcard.jacoblin.cool/Sompa_Bhui?ext=heatmap)
