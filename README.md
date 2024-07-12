@@ -17,6 +17,8 @@
 
 <p align="left"> <a href="https://twitter.com/@sompabhui" target="blank"><img src="https://img.shields.io/twitter/follow/@sompabhui?logo=twitter&style=for-the-badge" alt="@sompabhui" /></a> </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
 - 🔭 I’m currently working on **ML & DevOps Projects**
 
 - 🌱 I’m currently learning **DSA with Java & DevOps**
