@@ -48,8 +48,6 @@
 
 
 
-![](https://leetcard.jacoblin.cool/Sompa_Bhui?ext=heatmap)
-
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
 <p align="center"> **If you like this readme file, please give me star! 🌟**</p>
