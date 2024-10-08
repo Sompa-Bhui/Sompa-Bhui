@@ -20,9 +20,9 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🔭 I’m currently working on **ML & DevOps Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **DSA with Java & DevOps**
+- 🌱 I’m currently learning **DSA with Java & Cloud Computing**
 
 - 📫 How to reach me **bhuisompa001@gmail.com**
 
