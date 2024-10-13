@@ -53,3 +53,5 @@
 
 <p align="center"> **If you like this readme file, please give me star! 🌟**</p>
 <p align="center">Made with ❤️ in BHARAT 🇮🇳</p>
+
+[![An image of @sompabhui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sompabhui)](https://holopin.io/@sompabhui)
