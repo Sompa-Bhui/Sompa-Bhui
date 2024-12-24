@@ -43,7 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sompa-bhui&" alt="sompa-bhui" /></p>
 
-[![Sompa's GitHub | Languages Over Time](https://stats.quira.sh/Sompa-Bhui/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Sompa-Bhui)
 
 <a href="https://github.com/Sompa-Bhui"></a>
     [![Sompa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sompa-Bhui&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Sompa-Bhui/github-readme-activity-graph)
