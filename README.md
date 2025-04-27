@@ -11,7 +11,11 @@
 
 <h3 align="center">A passionate Full Stack developer & Cloud enthusiast from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sompa-Bhui&label=Profile%20views&color=0e75b6&style=flat" alt="Sompa-Bhui" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sompa-Bhui&label=Profile%20views👀%20&color=0052CC&style=flat" alt="Sompa-Bhui" />
+</p>
+
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
