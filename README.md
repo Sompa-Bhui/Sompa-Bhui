@@ -79,4 +79,16 @@
 <p align="center"> **If you like this readme file, please give me star! 🌟**</p>
 <p align="center">Made with ❤️ in BHARAT 🇮🇳</p>
 
-[![An image of @sompabhui's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sompabhui)](https://holopin.io/@sompabhui)
+<div align="center">
+  <a href="https://holopin.io/@sompabhui" target="_blank">
+    <img 
+      src="https://holopin.me/sompabhui" 
+      alt="Holopin Badges" 
+      style="width: 80%; max-width: 700px; height: auto; border-radius: 15px; transition: transform 0.3s ease-in-out;" 
+      onmouseover="this.style.transform='scale(1.05)'" 
+      onmouseout="this.style.transform='scale(1)'"
+    />
+  </a>
+</div>
+
+
