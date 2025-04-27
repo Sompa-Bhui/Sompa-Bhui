@@ -44,13 +44,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔥 Streak Stats
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Sompa-Bhui&theme=algolia&count_private=true&hide_border=true&line_height=25" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sompa-Bhui&layout=compact&theme=algolia&count_private=true&hide_border=true" />
+  
+  </div>
+</details>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sompa-Bhui&theme=algolia" alt=" Sompa-Bhui"  /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
 
 
 <a href="https://github.com/Sompa-Bhui"></a>
-    [![Sompa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sompa-Bhui&bg_color=1a1b27&color=38bdae&line=bf91f3&point=70a5fd&area=true&hide_border=true)](https://github.com/Sompa-Bhui/github-readme-activity-graph)
+   [![Sompa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sompa-Bhui&bg_color=0c0c22&color=00e6fe&line=26e7a6&point=8e7bef&area=true&hide_border=true)](https://github.com/Sompa-Bhui/github-readme-activity-graph)
+
 
 
 
