@@ -1,8 +1,10 @@
 <h1 align="center"> Sompa Bhui 
     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/samuel-tuoyo-%F0%9F%93%A2-8568b62b6/](https://www.linkedin.com/in/sompa-bhui-406b232b6/)](https://www.linkedin.com/in/sompa-bhui-406b232b6/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([[https://twitter.com/Tuoyos26091](https://x.com/SompaBhui)](https://x.com/SompaBhui)) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/916203665630) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sompa-bhui-406b232b6/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SompaBhui)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green.svg?logo=WhatsApp&logoColor=white)](https://wa.me/916203665630)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bhuisompa001@gmail.com)
+
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Sompa Bhui! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="320">
