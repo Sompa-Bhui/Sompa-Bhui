@@ -14,9 +14,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer!;I'm+a+Computer+Science+engineer!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer!;I'm+a+Computer+Science+engineer!" /></a>
 </p>
-<h3 align="center">A passionate Full Stack developer & Cloud enthusiast from India</h3>
+<h3 align="center">Software Developer 💻 | Data Enthusiast 📊 | Turning Ideas into Code & Data into Insights | India</h3>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sompa-Bhui&label=Profile%20views👀%20&color=0052CC&style=flat" alt="Sompa-Bhui" />
 </p>
@@ -25,9 +27,13 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Software Development & Data-driven Projects**
 
-- 🌱 I’m currently learning **DSA with Java & Cloud Computing**
+- 🌱 I’m currently learning **Data Analysis, DSA & Cloud Computing**
+
+- 💡 I’m interested in Building Scalable **Software and Extracting Insights from Data**
+
+- 🚀 Exploring the intersection of **Software Engineering & Data Analytics**
 
 - 📫 How to reach me **bhuisompa001@gmail.com**
 
